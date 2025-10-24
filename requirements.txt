@@ -1,0 +1,10 @@
+ultralytics
+opencv-python
+numpy
+matplotlib
+torch
+roboflow
+pandas
+tqdm
+seaborn
+scikit-learn
